@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/keyframes-vorgestellt"  
 title: "Keyframes vorgestellt"
 author: "Aleksej Wesselbaum"
-date: "2020-08-02"
+pubDate: "2020-08-02"
 categories: 
   - "css"
   - "sass"

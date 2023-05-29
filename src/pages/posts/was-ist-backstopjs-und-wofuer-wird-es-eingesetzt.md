@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/was-ist-backstopjs-und-wofuer-wird-es-eingesetzt"  
 title: "Was ist BackstopJS und wofür wird es eingesetzt?"
 author: "Aleksej Wesselbaum"
-date: "2020-02-16"
+pubDate: "2020-02-16"
 categories: 
   - "tooling"
 tags: 

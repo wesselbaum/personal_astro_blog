@@ -1,8 +1,9 @@
 ---
-slug: "/animation-vs-transition"  
-title: "Animation vs Transition"
-author: "Aleksej Wesselbaum"
-date: "2020-03-29"
+layout: ../../layouts/MarkdownPostLayout.astro
+slug: /animation-vs-transition  
+title: Animation vs Transition
+author: Aleksej Wesselbaum
+pubDate: "2020-03-29"
 categories: 
   - "css"
 tags: 

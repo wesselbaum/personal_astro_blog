@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/backstop-fuer-grosse-projekte.md"  
 title: "Backstop für große Projekte"
 author: "Aleksej Wesselbaum"
-date: "2020-03-01"
+pubDate: "2020-03-01"
 categories: 
   - "tooling"
 tags: 

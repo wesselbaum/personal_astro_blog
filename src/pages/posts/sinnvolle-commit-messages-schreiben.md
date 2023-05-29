@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/sinnvolle-commit-messages-schreiben"  
 title: "Sinnvolle Commit Messages schreiben"
 author: "Aleksej Wesselbaum"
-date: "2020-04-19"
+pubDate: "2020-04-19"
 categories: 
   - "git"
 tags: 

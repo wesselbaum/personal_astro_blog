@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/zeilenumbruch-mit-flex-erzeugen"  
 title: "Zeilenumbruch mit Flex erzeugen"
 author: "Aleksej Wesselbaum"
-date: "2020-07-26"
+pubDate: "2020-07-26"
 categories: 
   - "css"
   - "sass"

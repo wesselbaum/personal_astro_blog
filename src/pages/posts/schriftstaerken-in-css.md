@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/schriftstaerken-in-css"  
 title: "Schriftstärken in CSS"
 author: "Aleksej Wesselbaum"
-date: "2020-05-03"
+pubDate: "2020-05-03"
 categories: 
   - "css"
 tags: 

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/farben-benennen"  
 title: "Farben benennen"
 author: "Aleksej Wesselbaum"
-date: "2021-03-28"
+pubDate: "2021-03-28"
 categories: 
   - "css"
   - "sass"

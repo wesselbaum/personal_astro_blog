@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/mikrooptimierung"  
 title: "Mikrooptimierung"
 author: "Aleksej Wesselbaum"
-date: "2020-07-19"
+pubDate: "2020-07-19"
 categories: 
   - "css"
   - "javascript"

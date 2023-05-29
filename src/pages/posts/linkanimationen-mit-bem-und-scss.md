@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/linkanimationen-mit-bem-und-scss"  
 title: "Linkanimationen mit BEM und SCSS"
 author: "Aleksej Wesselbaum"
-date: "2021-03-18"
+pubDate: "2021-03-18"
 categories: 
   - "css"
   - "sass"

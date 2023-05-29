@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/jedes-stylesheet-braucht-einen-shame-bereich"  
 title: "Jedes Stylesheet braucht einen \"Shame\" Bereich"
 author: "Aleksej Wesselbaum"
-date: "2020-02-02"
+pubDate: "2020-02-02"
 categories: 
   - "css"
 tags: 

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/jira-workflow-fuer-mehrere-bearbeiter-in-serie"  
 title: "JIRA Workflow für mehrere Bearbeiter in Serie"
 author: "Aleksej Wesselbaum"
-date: "2020-09-13"
+pubDate: "2020-09-13"
 categories: 
   - "workflow"
 tags: 

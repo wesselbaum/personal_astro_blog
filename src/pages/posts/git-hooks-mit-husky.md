@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/git-hooks-mit-husky"  
 title: "Git Hooks mit Husky"
 author: "Aleksej Wesselbaum"
-date: "2020-04-26"
+pubDate: "2020-04-26"
 categories: 
   - "javascript"
   - "tooling"

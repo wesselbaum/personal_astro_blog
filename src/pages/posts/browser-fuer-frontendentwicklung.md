@@ -1,8 +1,11 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/browser-fuer-frontendentwicklung"  
 title: "Browser für Frontendentwicklung"
 author: "Aleksej Wesselbaum"
-date: "2020-11-15"
+pubDate: "2020-11-15"
+tags:
+  - "-"
 ---
 
 Bei der Frage nach der Browserwahl geht es weniger um richtig oder falsch, sondern eher um Gewohnheit. In diesem Artikel möchte ich jedoch aufzeigen welche Feature für mich den Ausschlag machen den einen oder anderen Browser zu verwenden.

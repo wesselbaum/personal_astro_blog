@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/teaser-vollflaechig-verlinken"  
 title: "Teaser vollflächig verlinken"
 author: "Aleksej Wesselbaum"
-date: "2021-04-04"
+pubDate: "2021-04-04"
 categories: 
   - "css"
   - "html"

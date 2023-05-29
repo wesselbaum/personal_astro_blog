@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/bem-grundlagen"  
 title: "BEM Grundlagen"
 author: "Aleksej Wesselbaum"
-date: "2020-09-20"
+pubDate: "2020-09-20"
 categories: 
   - "css"
   - "sass"

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/conventional-commits"  
 title: "Conventional Commits"
 author: "Aleksej Wesselbaum"
-date: "2020-03-15"
+pubDate: "2020-03-15"
 categories: 
   - "git"
 tags: 

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/bem-techniken-im-detail"  
 title: "BEM Techniken im Detail"
 author: "Aleksej Wesselbaum"
-date: "2020-09-27"
+pubDate: "2020-09-27"
 categories: 
   - "css"
   - "javascript"

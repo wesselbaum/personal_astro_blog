@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/mit-nvm-die-richtige-node-version-immer-griffbereit"  
 title: "Mit NVM die richtige Node Version immer griffbereit"
 author: "Aleksej Wesselbaum"
-date: "2020-05-16"
+pubDate: "2020-05-16"
 categories: 
   - "tooling"
 tags: 

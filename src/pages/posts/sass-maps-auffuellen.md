@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/sass-maps-auffuellen"  
 title: "Sass Maps auffüllen"
 author: "Aleksej Wesselbaum"
-date: "2020-06-14"
+pubDate: "2020-06-14"
 categories: 
   - "css"
   - "sass"

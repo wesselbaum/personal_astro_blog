@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/kuerzen-von-attributen-im-firefox-deaktivieren"  
 title: "Kürzen von Attributen im Firefox deaktivieren"
 author: "Aleksej Wesselbaum"
-date: "2020-07-12"
+pubDate: "2020-07-12"
 categories: 
   - "tooling"
 tags: 

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/transparenz-in-farbverlaeufen"  
 title: "Transparenz in Farbverläufen"
 author: "Aleksej Wesselbaum"
-date: "2020-10-18"
+pubDate: "2020-10-18"
 categories: 
   - "css"
   - "sass"

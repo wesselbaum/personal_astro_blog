@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/teile-von-elementen-ausschneiden-mit-clip-path"  
 title: "Teile von Elementen ausschneiden mit clip-path"
 author: "Aleksej Wesselbaum"
-date: "2022-07-25"
+pubDate: "2022-07-25"
 tags: 
   - "css"
 ---

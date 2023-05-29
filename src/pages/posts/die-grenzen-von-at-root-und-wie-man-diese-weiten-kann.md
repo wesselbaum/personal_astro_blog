@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/die-grenzen-von-at-root-und-wie-man-diese-weiten-kann"  
 title: "Die Grenzen von @at-root und wie man diese weiten kann"
 author: "Aleksej Wesselbaum"
-date: "2020-02-09"
+pubDate: "2020-02-09"
 categories: 
   - "css"
 tags: 

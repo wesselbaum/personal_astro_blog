@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/backstop-grundeinrichtung"  
 title: "Backstop Grundeinrichtung"
 author: "Aleksej Wesselbaum"
-date: "2020-02-23"
+pubDate: "2020-02-23"
 categories: 
   - "tooling"
 tags: 

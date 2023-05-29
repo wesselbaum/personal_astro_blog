@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/git-status-fuer-unterordner-anzeigen-lassen"  
 title: "Git Status für Unterordner anzeigen lassen"
 author: "Aleksej Wesselbaum"
-date: "2022-02-03"
+pubDate: "2022-02-03"
 categories: 
   - "git"
   - "tooling"

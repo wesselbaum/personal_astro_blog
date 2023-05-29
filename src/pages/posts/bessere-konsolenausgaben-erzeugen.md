@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/bessere-konsolenausgaben-erzeugen"  
 title: "Bessere Konsolenausgaben erzeugen"
 author: "Aleksej Wesselbaum"
-date: "2020-08-09"
+pubDate: "2020-08-09"
 categories: 
   - "javascript"
 tags: 

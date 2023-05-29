@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/changelog-anhand-der-commit-messages-erstellen"  
 title: "Changelog anhand der Commit Messages erstellen"
 author: "Aleksej Wesselbaum"
-date: "2020-06-07"
+pubDate: "2020-06-07"
 categories: 
   - "tooling"
 tags: 

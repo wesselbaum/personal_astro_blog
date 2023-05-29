@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/css-only-loesungen-sollten-fast-nie-das-mittel-der-wahl-sein"  
 title: "CSS Only Lösungen sollten fast nie das Mittel der Wahl sein"
 author: "Aleksej Wesselbaum"
-date: "2020-03-22"
+pubDate: "2020-03-22"
 categories: 
   - "css"
   - "javascript"

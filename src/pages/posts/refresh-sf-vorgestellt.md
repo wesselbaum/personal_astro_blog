@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/refresh-sf-vorgestellt"  
 title: "Refresh SF vorgestellt"
 author: "Aleksej Wesselbaum"
-date: "2020-02-19"
+pubDate: "2020-02-19"
 categories: 
   - "vorgestellt"
 tags: 

@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/einheitliche-animationen-erstellen"  
 title: "Einheitliche Animationen erstellen"
 author: "Aleksej Wesselbaum"
-date: "2022-01-10"
+pubDate: "2022-01-10"
 categories: 
   - "css"
   - "sass"

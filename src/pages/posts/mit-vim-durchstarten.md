@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/mit-vim-durchstarten"  
 title: "Mit Vim durchstarten"
 author: "Aleksej Wesselbaum"
-date: "2020-03-08"
+pubDate: "2020-03-08"
 categories: 
   - "tooling"
 tags: 

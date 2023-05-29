@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/styling-in-react"  
 title: "Styling in React"
 author: "Aleksej Wesselbaum"
-date: "2023-04-17"
+pubDate: "2023-04-17"
 tags: 
   - "css"
   - "javascript"

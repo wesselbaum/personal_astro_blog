@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/text-semantisch-durchstreichen"  
 title: "Text semantisch durchstreichen"
 author: "Aleksej Wesselbaum"
-date: "2020-08-23"
+pubDate: "2020-08-23"
 categories: 
   - "html"
 tags: 

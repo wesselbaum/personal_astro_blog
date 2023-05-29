@@ -1,8 +1,8 @@
 ---
-slug: "/ausgeblendete-bilder-nicht-laden"  
+layout: "../../layouts/MarkdownPostLayout.astro"
 title: "Ausgeblendete Bilder nicht laden"
 author: "Aleksej Wesselbaum"
-date: "2020-08-16"
+pubDate: "2020-08-16"
 categories: 
   - "css"
   - "html"

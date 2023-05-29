@@ -1,8 +1,9 @@
 ---
+layout: "../../layouts/MarkdownPostLayout.astro"
 slug: "/mit-avn-automatisch-die-richtige-node-js-version-auswaehlen"  
 title: "Mit AVN automatisch die Richtige Node.js Version auswählen"
 author: "Aleksej Wesselbaum"
-date: "2020-05-31"
+pubDate: "2020-05-31"
 categories: 
   - "tooling"
 tags: 
