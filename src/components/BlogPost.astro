@@ -1,4 +1,79 @@
 ---
-const { url, title } = Astro.props;
+import Tag from "./Tag.astro";
+const { url, title, tags, excerpt } = Astro.props;
 ---
-<li><a href={url}>{title}</a></li>
+
+<li>
+    <a href={url}>
+        <span class="title">{title}</span>
+        <p class="excerpt">
+            {excerpt}
+        </p>
+    </a>
+    <div class="tags">{tags.map((tag: any) => <Tag title={tag} />)}</div>
+</li>
+
+<style>
+    li {
+        margin-bottom: 20px;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: 1fr auto;
+    }
+
+    .tags {
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 3;
+        grid-row-end: 3;
+
+        display: flex;
+    }
+
+    .title {
+        text-decoration: underline;
+        transition-property: all;
+    }
+
+    .excerpt {
+        font-size: 1rem;
+    }
+
+    a {
+        border: solid 1px hsla(0, 0%, 50%, 50%);
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 1;
+        grid-row-end: 2;
+        width: 100%;
+        padding: 20px;
+        display: inline-block;
+        color: var(--color-foreground);
+        text-decoration-color: var(--color-primary);
+        font-size: 1.4rem;
+        text-decoration: none;
+        transition-property: box-shadow;
+        background-color: white;
+        box-shadow: 10px 10px 10px -10px hsla(0, 0%, 50%, 30%);
+
+        &:hover {
+            box-shadow: 20px 20px 10px -10px hsla(0, 0%, 50%, 30%);
+        }
+
+        &:hover,
+        &:focus-visible {
+            text-decoration-style: none;
+            outline-color: var(--color-accent);
+            text-decoration-color: var(--color-accent);
+
+            .title {
+                text-decoration-color: var(--color-accent);
+                text-decoration-thickness: 6px;
+            }
+        }
+
+        &:focus-visible {
+            outline-width: 6px;
+        }
+    }
+</style>
