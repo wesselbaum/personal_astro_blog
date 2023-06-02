@@ -12,6 +12,7 @@ tags:
   - "regression"
   - "test"
   - "testing"
+excerpt: "## Vorbereitung"
 ---
 
 ## Vorbereitung

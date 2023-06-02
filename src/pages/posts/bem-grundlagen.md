@@ -11,6 +11,7 @@ tags:
   - "bem"
   - "css"
   - "scss"
+excerpt: "BEM ist eine Methode zur Strukturierung von CSS Stylesheets. Was BEM im Detail ist und wo die Vorteile sind wird in diesem Artikel beschrieben."
 ---
 
 BEM ist eine Methode zur Strukturierung von CSS Stylesheets. Was BEM im Detail ist und wo die Vorteile sind wird in diesem Artikel beschrieben.

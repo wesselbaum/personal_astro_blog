@@ -6,6 +6,7 @@ author: "Aleksej Wesselbaum"
 pubDate: "2022-07-25"
 tags: 
   - "css"
+excerpt: "Wenn es früher darum ging Teile von Elementen auszuschneiden hat man oft zum Pseudo-Element als Lösung gegriffen. Dabei hat man die Pseudoelemente an den ausgeschnittenen Stellen platziert und in der Hintergrundfarbe eingefärbt."
 ---
 
 Wenn es früher darum ging Teile von Elementen auszuschneiden hat man oft zum Pseudo-Element als Lösung gegriffen. Dabei hat man die Pseudoelemente an den ausgeschnittenen Stellen platziert und in der Hintergrundfarbe eingefärbt.

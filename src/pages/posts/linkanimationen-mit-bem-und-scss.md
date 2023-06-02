@@ -11,6 +11,7 @@ tags:
   - "css"
   - "sass"
   - "scss"
+excerpt: "Es kommt vor, dass Module angelegt werden, bei denen man zunächst fest davon ausgeht, dass diese immer Links beinhalten werden. So gibt es Teaser mit dem Element Link."
 ---
 
 Es kommt vor, dass Module angelegt werden, bei denen man zunächst fest davon ausgeht, dass diese immer Links beinhalten werden. So gibt es Teaser mit dem Element Link.

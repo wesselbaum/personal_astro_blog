@@ -9,6 +9,7 @@ categories:
 tags: 
   - "css"
   - "typografie"
+excerpt: "## Definition von `font-weight`"
 ---
 
 ## Definition von `font-weight`

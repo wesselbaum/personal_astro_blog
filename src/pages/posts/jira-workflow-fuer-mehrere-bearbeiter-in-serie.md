@@ -9,6 +9,7 @@ categories:
 tags: 
   - "jira"
   - "workflow"
+excerpt: "JIRA ist eine Software zur Vorgangs- und Projektverfolgung."
 ---
 
 JIRA ist eine Software zur Vorgangs- und Projektverfolgung.

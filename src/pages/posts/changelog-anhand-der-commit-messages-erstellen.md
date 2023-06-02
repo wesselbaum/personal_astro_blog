@@ -9,6 +9,7 @@ categories:
 tags: 
   - "npm"
   - "tools"
+excerpt: "Ein Changelog beschreibt, welche Änderungen es seit dem letzten Release eines Produktes gegeben hat. Mit dessen Hilfe können die Benutzer sehen, ob sich ein Update lohnt."
 ---
 
 Ein Changelog beschreibt, welche Änderungen es seit dem letzten Release eines Produktes gegeben hat. Mit dessen Hilfe können die Benutzer sehen, ob sich ein Update lohnt.

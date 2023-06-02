@@ -13,6 +13,7 @@ tags:
   - "javascript"
   - "performance"
   - "scss"
+excerpt: "Mikrooptimierung beschreibt die Verbesserung von Performance in einem Kontext ohne konkreten Anlass dafür. Ein Beispiel dafür wäre die Funktion for von Javascript nicht zu verwenden und stattdessen eine eigene Funktion dafür zu schreiben, weil man sich davon eine Performancesteigerung verspricht."
 ---
 
 Mikrooptimierung beschreibt die Verbesserung von Performance in einem Kontext ohne konkreten Anlass dafür. Ein Beispiel dafür wäre die Funktion for von Javascript nicht zu verwenden und stattdessen eine eigene Funktion dafür zu schreiben, weil man sich davon eine Performancesteigerung verspricht.

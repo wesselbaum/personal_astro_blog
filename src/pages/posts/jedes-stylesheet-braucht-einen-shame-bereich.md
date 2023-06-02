@@ -14,6 +14,7 @@ tags:
   - "qualitaet"
   - "sass"
   - "scss"
+excerpt: "_In diesem Artikel beziehe ich mich auf CSS bzw. SCSS. Das Prnzip kann auf weitere Bereiche übertragen werden._"
 ---
 
 _In diesem Artikel beziehe ich mich auf CSS bzw. SCSS. Das Prnzip kann auf weitere Bereiche übertragen werden._

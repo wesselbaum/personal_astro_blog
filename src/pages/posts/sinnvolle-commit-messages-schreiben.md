@@ -10,6 +10,7 @@ tags:
   - "commit"
   - "conventional"
   - "git"
+excerpt: "Fängt man an mit _Git_ zu arbeiten, lernt man als Erstes einen Commit zu erstellen. Doch das Erste was man lernt ist leider allzu oft nicht das worauf viel geachtet wird."
 ---
 
 Fängt man an mit _Git_ zu arbeiten, lernt man als Erstes einen Commit zu erstellen. Doch das Erste was man lernt ist leider allzu oft nicht das worauf viel geachtet wird.

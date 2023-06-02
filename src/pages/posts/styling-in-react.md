@@ -8,6 +8,7 @@ tags:
   - "css"
   - "javascript"
   - "react"
+excerpt: "Ich komme aus einem Kontext, in dem das Styling eine sehr große Rolle eingenommen hat. Daher bin ich von Methoden wie BEM sehr angetan. Nun bin ich im Kontext von React unterwegs und viele meiner Glaubenssätze müssen über Board geschmissen werden. Natürlich könnte man weiterhin wie gewohnt eine SCSS Datei pflegen in der man nach BEM arbeitet. Da bietet das Tooling run um React aber eher wenig Hilfe."
 ---
 
 Ich komme aus einem Kontext, in dem das Styling eine sehr große Rolle eingenommen hat. Daher bin ich von Methoden wie BEM sehr angetan. Nun bin ich im Kontext von React unterwegs und viele meiner Glaubenssätze müssen über Board geschmissen werden. Natürlich könnte man weiterhin wie gewohnt eine SCSS Datei pflegen in der man nach BEM arbeitet. Da bietet das Tooling run um React aber eher wenig Hilfe.

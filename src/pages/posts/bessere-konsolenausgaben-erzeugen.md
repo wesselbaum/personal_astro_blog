@@ -10,6 +10,7 @@ tags:
   - "console"
   - "javascript"
   - "konsole"
+excerpt: "Zum Debugen von Javascipt wird der Befehl `console.log` sehr gerne verwendet. Dadurch werden Javascript Objekte in der Konsole des Browsers ausgegeben."
 ---
 
 Zum Debugen von Javascipt wird der Befehl `console.log` sehr gerne verwendet. Dadurch werden Javascript Objekte in der Konsole des Browsers ausgegeben.

@@ -16,6 +16,7 @@ tags:
   - "sf"
   - "tools"
   - "vorgestellt"
+excerpt: "In großen Projekten werden Buildscripte mit diversen Plugins dazu verwendet die Javascript und CSS Dateien zu minimieren. Das dient dazu, dass der Benutzer einer Webseite schneller die Seite benutzen kann, weil er zum Beispiel keine Leerzeilen und Kommentare herunterlädt, die für die Entwicklung wichtig sein können, den Broswer aber nicht interessieren."
 ---
 
 In großen Projekten werden Buildscripte mit diversen Plugins dazu verwendet die Javascript und CSS Dateien zu minimieren. Das dient dazu, dass der Benutzer einer Webseite schneller die Seite benutzen kann, weil er zum Beispiel keine Leerzeilen und Kommentare herunterlädt, die für die Entwicklung wichtig sein können, den Broswer aber nicht interessieren.

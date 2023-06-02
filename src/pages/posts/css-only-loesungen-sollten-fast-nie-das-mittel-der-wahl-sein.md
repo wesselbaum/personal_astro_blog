@@ -13,6 +13,7 @@ tags:
   - "javascript"
   - "scss"
   - "zugaenglichkeit"
+excerpt: "Im Internet findet man immer wieder Lösungen für [CSS Only Navigation](https://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/), [Slider](https://codepen.io/dudleystorey/full/kFoGw/), [Tooltip](https://www.freecodecamp.org/news/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346/) und diverse andere Dinge die nur mit CSS umgesetzt worden sind, die auf den ersten Blick gut aussehen. Doch die CSS Only Lösungen haben alle eins gemeinsam: Sie funktionieren nur gut für den Sehenden Benutzer, der nicht auf Screen Reader angewiesen ist. Doch fangen wir erst mal von vorne an."
 ---
 
 Im Internet findet man immer wieder Lösungen für [CSS Only Navigation](https://medialoot.com/blog/how-to-create-a-responsive-navigation-menu-using-only-css/), [Slider](https://codepen.io/dudleystorey/full/kFoGw/), [Tooltip](https://www.freecodecamp.org/news/a-step-by-step-guide-to-making-pure-css-tooltips-3d5a3e237346/) und diverse andere Dinge die nur mit CSS umgesetzt worden sind, die auf den ersten Blick gut aussehen. Doch die CSS Only Lösungen haben alle eins gemeinsam: Sie funktionieren nur gut für den Sehenden Benutzer, der nicht auf Screen Reader angewiesen ist. Doch fangen wir erst mal von vorne an.

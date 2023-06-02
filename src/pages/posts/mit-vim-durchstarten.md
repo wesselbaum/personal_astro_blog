@@ -14,6 +14,7 @@ tags:
   - "ubuntu"
   - "vi"
   - "vim"
+excerpt: "## Was ist Vim"
 ---
 
 ## Was ist Vim

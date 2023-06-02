@@ -11,6 +11,7 @@ tags:
   - "css"
   - "sass"
   - "scss"
+excerpt: "Maps sind ein wunderbares Mittel in Sass um Key Value Inhalte abzubilden. Manchmal reichen die Inhalte einer Map nicht aus um das gewünschte Verhalten abzubilden. Aber zunächst die Grundlagen."
 ---
 
 Maps sind ein wunderbares Mittel in Sass um Key Value Inhalte abzubilden. Manchmal reichen die Inhalte einer Map nicht aus um das gewünschte Verhalten abzubilden. Aber zunächst die Grundlagen.

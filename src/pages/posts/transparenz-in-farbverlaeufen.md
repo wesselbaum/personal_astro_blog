@@ -10,6 +10,7 @@ categories:
 tags: 
   - "css"
   - "scss"
+excerpt: "Es gibt viele Anwendungsfälle für Farbverläufe, welche teilweise transparent dargestellt werden. Jedoch gibt es ein Problem mit Safari, und somit auch iOS, welches man immer bedenken muss."
 ---
 
 Es gibt viele Anwendungsfälle für Farbverläufe, welche teilweise transparent dargestellt werden. Jedoch gibt es ein Problem mit Safari, und somit auch iOS, welches man immer bedenken muss.

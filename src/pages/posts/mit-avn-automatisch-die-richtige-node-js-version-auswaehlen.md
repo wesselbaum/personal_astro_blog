@@ -13,6 +13,7 @@ tags:
   - "npm"
   - "nvm"
   - "tools"
+excerpt: "Im vorherigem Artikel habe ich bereits [_NVM_ vorgestellt](https://devnarrative.com/mit-nvm-die-richtige-node-version-immer-griffbereit/). Mit _NVM_ hat man die Möglichkeit zwischen verschiedenen _Node.js_ Versionen zu wählen. Nun muss man leider immer noch wissen welches Projekt welche _Node.js_ Version voraussetzt und manuell diese Version mit `nvm use [version]` auswählen."
 ---
 
 Im vorherigem Artikel habe ich bereits [_NVM_ vorgestellt](https://devnarrative.com/mit-nvm-die-richtige-node-version-immer-griffbereit/). Mit _NVM_ hat man die Möglichkeit zwischen verschiedenen _Node.js_ Versionen zu wählen. Nun muss man leider immer noch wissen welches Projekt welche _Node.js_ Version voraussetzt und manuell diese Version mit `nvm use [version]` auswählen.

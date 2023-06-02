@@ -14,6 +14,7 @@ tags:
   - "hook"
   - "hooks"
   - "husky"
+excerpt: "## Was sind git hooks"
 ---
 
 ## Was sind git hooks

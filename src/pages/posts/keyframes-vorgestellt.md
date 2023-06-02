@@ -14,6 +14,7 @@ tags:
   - "scss"
   - "tools"
   - "vorgestellt"
+excerpt: "[Keyframes ist eine Erweiterung für Chrome](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck) (und weitere auf Chromium basierende Browser). Diese erlaubt es auf eine sehr einfache Art `@keyframe` zu erstellen."
 ---
 
 [Keyframes ist eine Erweiterung für Chrome](https://chrome.google.com/webstore/detail/keyframes/dalaiblmpeklkjnpeocmaojcfldmbfck) (und weitere auf Chromium basierende Browser). Diese erlaubt es auf eine sehr einfache Art `@keyframe` zu erstellen.

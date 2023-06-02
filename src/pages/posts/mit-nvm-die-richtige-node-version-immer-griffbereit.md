@@ -11,6 +11,7 @@ tags:
   - "node-js"
   - "nvm"
   - "version"
+excerpt: "Aktuell kommt man als Webentwickler kaum an _Node.js_ vorbei. Wenn man bereits vor einer Weile angefangen hat mit Node zu arbeiten, kann folgende Situation eingetreten sein. Man hat ein Projekt mit Node 5 aufgesetzt und entwickelt. Anschließend sind einige Projekte vergangen und man hat Node 6, 8 und 10 für neuere Projekte installiert. Möchte man nun zum ersten Projekt zurückkehren und Anpassungen vornehmen hat man ein Problem: die installierte Node Version entspricht nicht der im Projekt verwendeten Version."
 ---
 
 Aktuell kommt man als Webentwickler kaum an _Node.js_ vorbei. Wenn man bereits vor einer Weile angefangen hat mit Node zu arbeiten, kann folgende Situation eingetreten sein. Man hat ein Projekt mit Node 5 aufgesetzt und entwickelt. Anschließend sind einige Projekte vergangen und man hat Node 6, 8 und 10 für neuere Projekte installiert. Möchte man nun zum ersten Projekt zurückkehren und Anpassungen vornehmen hat man ein Problem: die installierte Node Version entspricht nicht der im Projekt verwendeten Version.

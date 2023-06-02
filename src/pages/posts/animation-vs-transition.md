@@ -11,6 +11,7 @@ tags:
   - "css"
   - "scss"
   - "transition"
+excerpt: "In CSS gibt es grundlegend zwei Möglichkeiten Elemente zu animieren: `animation` und `transition`. In diesem Artikel schauen wir uns an, welche Eigenschaft welche Vorteile hat und wann man welche verwenden sollte."
 ---
 
 In CSS gibt es grundlegend zwei Möglichkeiten Elemente zu animieren: `animation` und `transition`. In diesem Artikel schauen wir uns an, welche Eigenschaft welche Vorteile hat und wann man welche verwenden sollte.

@@ -11,6 +11,7 @@ categories:
 tags: 
   - "git"
   - "tools"
+excerpt: "Arbeitet man mit vielen Projekten kann es mal passieren, dass man mit der Arbeit fertig ist, aber das Commiten bzw. Pushen in der Hektik des Alltags untergeht. Möchte man dann sicherstellen das alle Projekte auf dem Git Server angekommen sind, muss man in jedes Projekt navigieren und mit `git status` den aktuellen Zustand abfragen."
 ---
 
 Arbeitet man mit vielen Projekten kann es mal passieren, dass man mit der Arbeit fertig ist, aber das Commiten bzw. Pushen in der Hektik des Alltags untergeht. Möchte man dann sicherstellen das alle Projekte auf dem Git Server angekommen sind, muss man in jedes Projekt navigieren und mit `git status` den aktuellen Zustand abfragen.

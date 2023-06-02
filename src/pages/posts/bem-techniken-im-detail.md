@@ -15,6 +15,7 @@ tags:
   - "javascript"
   - "scss"
   - "workflow"
+excerpt: "Wenn man sich bereits mit BEM vertraut gemacht hat wird man im Alltag einigen Problemstellungen begegnet sein. In diesem Artikel geht es darum möglichst viele dieser Problemstellungen zu beheben."
 ---
 
 Wenn man sich bereits mit BEM vertraut gemacht hat wird man im Alltag einigen Problemstellungen begegnet sein. In diesem Artikel geht es darum möglichst viele dieser Problemstellungen zu beheben.

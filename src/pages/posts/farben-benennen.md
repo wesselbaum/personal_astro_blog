@@ -10,6 +10,7 @@ categories:
 tags: 
   - "css"
   - "scss"
+excerpt: "Es gibt laut Phil Karlton zwei komplizierte Dinge die Programierern begegnen."
 ---
 
 Es gibt laut Phil Karlton zwei komplizierte Dinge die Programierern begegnen.

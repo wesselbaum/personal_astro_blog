@@ -10,6 +10,7 @@ tags:
   - "css"
   - "html"
   - "performance"
+excerpt: "Es gibt immer wieder den Anwendungsfall Bilder auszublenden. Wenn das Ausblenden mit `display: none` erfolgt gibt es den großen Nachteil, dass das Bild trotzdem vom Browser heruntergeladen wird."
 ---
 
 Es gibt immer wieder den Anwendungsfall Bilder auszublenden. Wenn das Ausblenden mit `display: none` erfolgt gibt es den großen Nachteil, dass das Bild trotzdem vom Browser heruntergeladen wird.

@@ -9,6 +9,7 @@ categories:
 tags: 
   - "einstellungen"
   - "firefox"
+excerpt: "In den Firefox DevTools werden DOM Attribute, die länger als 120 Zeichen sind standardmäßig gekürzt. Über den Nutzen dieser Funktion kann man streiten, jedoch sollte die Kürzung zumindest deutlicher Hervorgehoben werden."
 ---
 
 In den Firefox DevTools werden DOM Attribute, die länger als 120 Zeichen sind standardmäßig gekürzt. Über den Nutzen dieser Funktion kann man streiten, jedoch sollte die Kürzung zumindest deutlicher Hervorgehoben werden.

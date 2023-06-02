@@ -10,6 +10,7 @@ tags:
   - "barrierefreiheit"
   - "html"
   - "semantik"
+excerpt: "Texte durchstreichen im Web ist keine alltägliche Aufgabe. Doch wenn man dazu kommt, welches Tag ist dann zu verwenden?"
 ---
 
 Texte durchstreichen im Web ist keine alltägliche Aufgabe. Doch wenn man dazu kommt, welches Tag ist dann zu verwenden?

@@ -14,6 +14,7 @@ tags:
   - "conventional"
   - "git"
   - "husky"
+excerpt: "Git hat sich mittlerweile fast überall als de facto DIE Versionierungssoftware durchgesetzt. Damit ist die ehrwürdige Geschichte des Streitens über die Versionierung von Quellcode noch lange nicht zu Ende erzählt."
 ---
 
 Git hat sich mittlerweile fast überall als de facto DIE Versionierungssoftware durchgesetzt. Damit ist die ehrwürdige Geschichte des Streitens über die Versionierung von Quellcode noch lange nicht zu Ende erzählt.

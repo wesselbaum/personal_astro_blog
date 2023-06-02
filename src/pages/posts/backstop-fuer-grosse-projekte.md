@@ -12,6 +12,7 @@ tags:
   - "regression"
   - "test"
   - "testing"
+excerpt: "Im vorherigen Artikel haben wir uns den Aufbau einer grundlegenden Struktur für Backstop angeschaut."
 ---
 
 Im vorherigen Artikel haben wir uns den Aufbau einer grundlegenden Struktur für Backstop angeschaut.

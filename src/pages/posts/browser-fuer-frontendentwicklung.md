@@ -6,6 +6,7 @@ author: "Aleksej Wesselbaum"
 pubDate: "2020-11-15"
 tags:
   - "-"
+excerpt: "Bei der Frage nach der Browserwahl geht es weniger um richtig oder falsch, sondern eher um Gewohnheit. In diesem Artikel möchte ich jedoch aufzeigen welche Feature für mich den Ausschlag machen den einen oder anderen Browser zu verwenden."
 ---
 
 Bei der Frage nach der Browserwahl geht es weniger um richtig oder falsch, sondern eher um Gewohnheit. In diesem Artikel möchte ich jedoch aufzeigen welche Feature für mich den Ausschlag machen den einen oder anderen Browser zu verwenden.

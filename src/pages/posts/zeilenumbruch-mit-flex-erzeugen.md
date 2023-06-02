@@ -11,6 +11,7 @@ tags:
   - "css"
   - "flex"
   - "scss"
+excerpt: "Wenn es darum geht Elemente anzuordnen ist Flex-box ein sehr mächtiges Werkzeug. Leider gibt es aber keine Möglichkeit zu bestimmen, welches Element das Letzte in einer Zeile sein soll."
 ---
 
 Wenn es darum geht Elemente anzuordnen ist Flex-box ein sehr mächtiges Werkzeug. Leider gibt es aber keine Möglichkeit zu bestimmen, welches Element das Letzte in einer Zeile sein soll.

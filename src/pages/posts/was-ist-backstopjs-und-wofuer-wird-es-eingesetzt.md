@@ -12,6 +12,7 @@ tags:
   - "regression"
   - "test"
   - "testing"
+excerpt: "Das hier ist der erste Teil einer Serie in der ich den Nutzen, die Funktionsweise, Verwendung und Optimierungen für [BackstopJS](https://github.com/garris/BackstopJS) (später nur noch Backstop) erkläre."
 ---
 
 Das hier ist der erste Teil einer Serie in der ich den Nutzen, die Funktionsweise, Verwendung und Optimierungen für [BackstopJS](https://github.com/garris/BackstopJS) (später nur noch Backstop) erkläre.

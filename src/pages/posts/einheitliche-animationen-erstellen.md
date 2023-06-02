@@ -11,6 +11,7 @@ tags:
   - "css"
   - "performance"
   - "scss"
+excerpt: "Damit eine Webseite oder App gut aussieht werden heutzutage viele Animationen mit der `transition` Property verwendet. Doch damit es wirklich rund wirkt sollten die Animationen bis auf wenige Ausnahmen die gleiche Dauer und das gleiche Timing haben. Die Frage wie man das in großen Projekten sicherstellen kann wird in diesem Artikel beantwortet."
 ---
 
 Damit eine Webseite oder App gut aussieht werden heutzutage viele Animationen mit der `transition` Property verwendet. Doch damit es wirklich rund wirkt sollten die Animationen bis auf wenige Ausnahmen die gleiche Dauer und das gleiche Timing haben. Die Frage wie man das in großen Projekten sicherstellen kann wird in diesem Artikel beantwortet.
