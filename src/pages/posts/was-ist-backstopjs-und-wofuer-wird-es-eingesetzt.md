@@ -31,15 +31,15 @@ Zusätzlich kann man Anpassungen viel entspannter vornehmen, wenn man weiß, das
 
 Zuallerletzt ist es immer viel besser während der Entwicklung Fehler zu bemerken, als vom Kunden darauf hingewiesen zu werden.
 
-- [![](../../../public/images/Backstop_tests_failed-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_tests_failed.png)
+- [![](../../../images/Backstop_tests_failed-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_tests_failed.png)
     
     Backstop Test Übersicht
     
-- [![](../../../public/images/Backstop_schieber-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_schieber.png)
+- [![](../../../images/Backstop_schieber-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_schieber.png)
     
     Backstop Einzeltest Schieber
     
-- [![](../../../public/images/Backstop_diff-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_diff.png)
+- [![](../../../images/Backstop_diff-936x1024.png)](https://devnarrative.com/wp-content/uploads/2020/02/Backstop_diff.png)
     
     Backstop Einzeltest Unterschied
     

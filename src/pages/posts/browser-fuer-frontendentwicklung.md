@@ -47,7 +47,7 @@ Es gibt sehr viele Bereiche in denen sich beide Browser sehr ähnlich sind. Dazu
 
 #### **Kontrast bei Auswahl**
 
-![Kontrastanzeige bei der Auswahl](../../../public/images/Kontrast-1.jpeg)
+![Kontrastanzeige bei der Auswahl](../../../images/Kontrast-1.jpeg)
 
 Kontrastanzeige bei der Auswahl
 
@@ -55,19 +55,19 @@ Kontrastverhältnis von Text zum Hintergrund ist enorm wichtig, damit der Text f
 
 #### Text- und Boxschatten
 
-![](../../../public/images/c_shadow_1.jpeg)
+![](../../../images/c_shadow_1.jpeg)
 
 Chrome - Hover Regel
 
 Hovert man bei Chrome in einem Regelbereich unten rechts über die drei Punkte bekommt eine eine Auswahl von nützlichen Tools.
 
-![](../../../public/images/c_shadow_2.jpeg)
+![](../../../images/c_shadow_2.jpeg)
 
 Darunter sind auch Text- und Boxschatten. Damit kann man sehr schnell Schatten erzeugen ohne sich Gedanken über die Reihenfolge der Parameter zu machen.
 
 #### Fokusmodus
 
-![](../../../public/images/cc_focus.jpeg)
+![](../../../images/cc_focus.jpeg)
 
 Chrome - Emulate a focused page
 
@@ -77,7 +77,7 @@ Mit `STRG + SHIFT + p` und der Eingabe `focus` kann man den Eintrag _Emulate a f
 
 #### Lighthouse
 
-![](../../../public/images/c_lighthouse.jpeg)
+![](../../../images/c_lighthouse.jpeg)
 
 Chrome - Lighthouse
 
@@ -87,7 +87,7 @@ Lighthouse ist das Tool schlechthin um die Performance einer Seite zu untersuche
 
 #### Flex Unterstützung
 
-![](../../../public/images/ff_flex.jpeg)
+![](../../../images/ff_flex.jpeg)
 
 Firefox - Flex Unterstützung Highlights
 
@@ -95,7 +95,7 @@ Firefox hat eine hervorragende Unterstützung für die Arbeit mit `display: flex
 
 #### Grid Unterstützung
 
-![](../../../public/images/ff_grid.jpeg)
+![](../../../images/ff_grid.jpeg)
 
 Firefox - Grid Unterstützung Highlights
 
@@ -103,7 +103,7 @@ Firefox - Grid Unterstützung Highlights
 
 #### CSS Anpassungen
 
-![](../../../public/images/ff_aenderungen.jpeg)
+![](../../../images/ff_aenderungen.jpeg)
 
 Firefox - Änderungen
 
@@ -115,7 +115,7 @@ Wie schon in den Bildschirmfotos zuvor sieht man, dass die Übersichtlichkeit vo
 
 #### Events im DOM
 
-![](../../../public/images/ff_events.jpeg)
+![](../../../images/ff_events.jpeg)
 
 Firefox - Events im DOM
 
@@ -123,7 +123,7 @@ Sind Events auf einem DOM Element werden diese ähnlich wie bei Flex und Grid he
 
 #### Schriftarten
 
-![](../../../public/images/ff-fonts.jpeg)
+![](../../../images/ff-fonts.jpeg)
 
 Firefox - Schriftarten
 
@@ -135,7 +135,7 @@ Klappt man zusätzlich "Alle Schriftarten der Seite" auf, bekommt man - wie der 
 
 #### Absolute Positionierung
 
-![](../../../public/images/ff_absolute.jpeg)
+![](../../../images/ff_absolute.jpeg)
 
 Firefox - Absolute Positionierung
 
@@ -145,7 +145,7 @@ Zusätzlich kann man die Positionierung mittels Click auf das Icon vor **absolut
 
 #### `transform` Unterstützung
 
-![](../../../public/images/transform.jpeg)
+![](../../../images/transform.jpeg)
 
 Firefox - Transform
 
@@ -153,7 +153,7 @@ Werden Elemente mit `transform` angepasst, können mittels hover auf `transform`
 
 #### `transition-timing-function` Unterstützung
 
-![](../../../public/images/transition-editor.jpeg)
+![](../../../images/transition-editor.jpeg)
 
 Firefox - transition-timing-function Unterstützung
 
