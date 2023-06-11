@@ -12,7 +12,7 @@ tags:
   - "css"
   - "html"
   - "scss"
-excerpt: "Um den Besuchern einer Webseite möglichst viel Komfort zu bieten geht der Trend dazu Teaser vollflächig zu verlinken, um die Clickfläche möglichst groß und klar zu gestalten, anstatt nur den "mehr" Link als Clickfläche anzubieten."
+excerpt: "Um den Besuchern einer Webseite möglichst viel Komfort zu bieten geht der Trend dazu Teaser vollflächig zu verlinken, um die Clickfläche möglichst groß und klar zu gestalten, anstatt nur den \"mehr\" Link als Clickfläche anzubieten."
 ---
 
 Um den Besuchern einer Webseite möglichst viel Komfort zu bieten geht der Trend dazu Teaser vollflächig zu verlinken, um die Clickfläche möglichst groß und klar zu gestalten, anstatt nur den "mehr" Link als Clickfläche anzubieten.
