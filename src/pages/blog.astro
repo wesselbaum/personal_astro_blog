@@ -3,7 +3,8 @@ import BaseLayout from "../layouts/BaseLayout.astro";
 import BlogPost from "../components/BlogPost.astro";
 const pageTitle = "Blog";
 const allPosts = await Astro.glob("../pages/posts/*.md");
-const orderedPosts = allPosts.sort((a, b) => {
+const filteredPosts = allPosts.filter(post => !post.frontmatter.draft )
+const orderedPosts = filteredPosts.sort((a, b) => {
     if (a.frontmatter.pubDate < b.frontmatter.pubDate) {
         return 1;
     }
