@@ -7,7 +7,7 @@ categories:
   - "Produktivität"
 tags: 
   - "Produktivität"
-excerpt: ""
+excerpt: "Wenn es darum geht bei der Arbeit sich weniger ablenken zu lassen habe ich für mich festgestellt, dass die Verwendung des iPhones als Kamer für Videokonferenzen sehr gut funktioniert."
 ---
 
 Wenn es darum geht bei der Arbeit sich weniger ablenken zu lassen habe ich für mich festgestellt, dass die Verwendung des iPhones als Kamer für Videokonferenzen sehr gut funktioniert. 
