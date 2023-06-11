@@ -40,7 +40,7 @@ const { url, title, tags, excerpt } = Astro.props;
     }
 
     a {
-        border: solid 1px hsla(0, 0%, 50%, 50%);
+        border: solid 1px var(--color-blog-post-shadow);
         grid-column-start: 1;
         grid-column-end: 2;
         grid-row-start: 1;
@@ -53,8 +53,8 @@ const { url, title, tags, excerpt } = Astro.props;
         font-size: 1.4rem;
         text-decoration: none;
         transition-property: box-shadow;
-        background-color: white;
-        box-shadow: 10px 10px 10px -10px hsla(0, 0%, 50%, 30%);
+        background-color: var(--color-blog-post);
+        box-shadow: 10px 10px 10px -10px var(--color-blog-post-shadow);
 
         &:hover {
             box-shadow: 20px 20px 10px -10px hsla(0, 0%, 50%, 30%);

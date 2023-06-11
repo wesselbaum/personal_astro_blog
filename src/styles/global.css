@@ -4,6 +4,9 @@
     --color-foreground: #30343d;
     --color-background: #fbf9ff;
     --color-secondary: #5c80bc;
+    --color-blog-post: #fff;
+    --color-blog-post-shadow: hsla(0, 0%, 50%, 30%);
+
 }
 
 
@@ -15,6 +18,8 @@ html {
 html.dark {
     --color-foreground: #fbf9ff;
     --color-background: #30343d;
+    --color-blog-post: #333;
+    --color-blog-post-shadow: hsla(47, 78%, 59%, 100%);
 }
 
 .dark .nav-links a {
