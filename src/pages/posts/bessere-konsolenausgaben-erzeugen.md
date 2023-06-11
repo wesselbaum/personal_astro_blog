@@ -28,7 +28,7 @@ console.log(document.body);
 console.log(document.querySelectorAll('a'));
 ```
 
-![Objekte in der Konsole ausgegeben](../../../images/objekte-anzeigen-e1596990412360.jpeg)
+![Objekte in der Konsole ausgegeben](./images/objekte-anzeigen-e1596990412360.jpeg)
 
 Neben der Ausgabe der Objekte bieten die meisten Browser noch mehr Komfort. Die Objekte in der Konsolenausgabe werden beim Hovern hervorgehoben. Außerdem kann man sich das Element auch in der DOM Ansicht anzeigen lassen.
 
@@ -47,7 +47,7 @@ console.table(personen);
 console.table(personen[0]);
 ```
 
-![Objektetabellen in der Konsole ausgegeben](../../../images/Objekttabellen-anzeigen.jpeg)
+![Objektetabellen in der Konsole ausgegeben](./images/Objekttabellen-anzeigen.jpeg)
 
 Auf diese Art können Objekte einfach lesbar dargestellt werden. Es kann aber auch eine Einschränkung der ausgegebenen Spalten vorgenommen werden, falls man z.B. größere Objekte zur Hand hat, oder nur bestimmte Werte von Interesse sind.
 
@@ -55,7 +55,7 @@ Auf diese Art können Objekte einfach lesbar dargestellt werden. Es kann aber au
 console.table(personen, ['vorname', 'alter']);
 ```
 
-![Gefilterte Objektetabellen in der Konsole ausgegeben](../../../images/Tabelle_gefiltert.jpeg)
+![Gefilterte Objektetabellen in der Konsole ausgegeben](./images/Tabelle_gefiltert.jpeg)
 
 ## Funktionsaufrufe verfolgen
 
@@ -73,7 +73,7 @@ function b() {
 a();
 ```
 
-![Funktionsaufrufe in der Konsole verfolgen](../../../images/Funktionsaufrufe-verfolgen.jpeg)
+![Funktionsaufrufe in der Konsole verfolgen](./images/Funktionsaufrufe-verfolgen.jpeg)
 
 Die Ausgabe ist dann von oben (tiefster Aufruf) nach unten (höchster Aufruf) zu lesen.
 
@@ -93,7 +93,7 @@ console.countReset("Durchlauf");
 console.countReset("Kindsprozess");
 ```
 
-![Aufrufe in der Konsole zählen](../../../images/Aufrufe_zaehlen.jpeg)
+![Aufrufe in der Konsole zählen](./images/Aufrufe_zaehlen.jpeg)
 
 Jedes mal, wenn der Aufruf erreich wird, werden Zählername und aktueller Durchlauf ausgegeben.
 
@@ -109,7 +109,7 @@ console.time("a");
 console.timeEnd("a");
 ```
 
-![Zeit in der Konsole messen](../../../images/Zeit_messen-e1596990399172.jpeg)
+![Zeit in der Konsole messen](./images/Zeit_messen-e1596990399172.jpeg)
 
 Diese Methode ist nicht sehr zuverlässig, da die Berechnung immer davon abhängt wie sehr der Computer mit anderen Berechnungen beschäftigt ist. Als grober Anhaltspunkt ist es aber dennoch sehr nützlich. Auch hier gilt: schlecht gemessen ist besser als gar nicht gemessen.
 
@@ -132,7 +132,7 @@ console.groupEnd();
 console.log("Zurück zur äußersten Ebene");
 ```
 
-![Gruppieren von Ausgaben in der Konsole](../../../images/Gruppieren_von_Ausgaben.jpeg)
+![Gruppieren von Ausgaben in der Konsole](./images/Gruppieren_von_Ausgaben.jpeg)
 
 ## Styling
 
@@ -144,7 +144,7 @@ Im folgendem Beispiel wird ein Stil auf die gesamte Ausgabe angewandt:
 console.log("%cIch bin grün und fett", "color: green; font-weight: bold")
 ```
 
-![Einheitliches Styling von Konsolenausgaben](../../../images/Styling_1.jpeg)
+![Einheitliches Styling von Konsolenausgaben](./images/Styling_1.jpeg)
 
 Als nächstes werden einzelne Stile auf einzelne Wörter angewandt:
 
@@ -152,7 +152,7 @@ Als nächstes werden einzelne Stile auf einzelne Wörter angewandt:
 console.log("Ich bin %cgrün%c und ich bin %cfett", "color: green; ","", "font-weight: bold")
 ```
 
-![Unterschiedliches Styling von Konsolenausgaben](../../../images/Styling_2.jpeg)
+![Unterschiedliches Styling von Konsolenausgaben](./images/Styling_2.jpeg)
 
 Hierbei ist zu beachten, dass die Anzahl der Vorkommen von `%c` und die Anzahl der Optionen übereinstimmen müssen. Gibt es weniger Optionen als benötigt, so wird der Text nicht formatiert. Bei jedem Vorkommen von `%c` werden die zuvor angewandten Stile zurückgesetzt.
 

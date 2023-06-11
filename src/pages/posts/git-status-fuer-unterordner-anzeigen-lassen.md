@@ -43,7 +43,7 @@ Im Einfachsten fall führt man den Befehl `clustergit` nun in einem Verzeichnis 
 
 #### Prüfung beim Start der Konsole
 
-![](../../../images/Clustergit-initial.png)
+![](./images/Clustergit-initial.png)
 
 Um regelmäßig den aktuellen Stand der Projekte abzufragen habe ich folgende Zeile in der Datei `~/.bashrc` ergänzt:
 

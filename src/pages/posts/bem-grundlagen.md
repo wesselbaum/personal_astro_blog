@@ -22,14 +22,14 @@ Als Erstes die Basis - BEM steht für **B**lock **E**lement **M**odifier. Dabei 
 
 Um das Ganze etwas plastischer zu gestalten werde ich das BEM Prinzip anhand eines Termins in einer Kalender-App darstellen.
 
-![](../../../images/schedule_application.png)
+![](./images/schedule_application.png)
 
 Veröffentlich auf [dribbble.com](https://dribbble.com/shots/5707404-Schedule-Application?utm_source=Clipboard_Shot&utm_campaign=JPstyle&utm_content=Schedule%20Application&utm_medium=Social_Share) - Schedule Application  
 by [Jack W.](https://dribbble.com/JPstyle) for [Queble](https://dribbble.com/queble)
 
 Im Detail interessieren uns die einzelnen Termine
 
-![](../../../images/image-1.png)
+![](./images/image-1.png)
 
 ## Aufbau
 

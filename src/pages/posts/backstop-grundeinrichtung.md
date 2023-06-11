@@ -19,7 +19,7 @@ excerpt: "## Vorbereitung"
 
 Um den ganzen Artikel etwas plastischer zu gestalten werde ich das Thema anhand der [HTML Templates von Foundation for Sites](https://foundation.zurb.com/templates.html) durchgehen. Dabei handelt es sich um exemplarisch gestaltete Webseitenlayouts für verschiedene Anwendungsfälle.
 
-![Foundation HTML Templates](../../../images/Bildschirmfoto-vom-2019-12-30-um-16.34.40-768x1024.png)
+![Foundation HTML Templates](./images/Bildschirmfoto-vom-2019-12-30-um-16.34.40-768x1024.png)
 
 Foundation HTML Templates
 
@@ -233,7 +233,7 @@ Dazu sammelt man zunächst alle Seiten die man testen möchte.
 
 Fangen wir mit `index.html` an.
 
-![Seitenstruktur](../../../images/page_structure.png)
+![Seitenstruktur](./images/page_structure.png)
 
 Seitenstruktur
 
@@ -397,7 +397,7 @@ Nachdem die Testfälle stehen kann man nun mit dem Arbeiten beginnen.
 
 Im ersten Schritt führt man den Befehl `backstop test` aus.
 
-![BackstopJS erster Durchlauf](../../../images/Bildschirmfoto-vom-2019-12-30-um-20.47.37-768x1024.png)
+![BackstopJS erster Durchlauf](./images/Bildschirmfoto-vom-2019-12-30-um-20.47.37-768x1024.png)
 
 BackstopJS erster Durchlauf
 

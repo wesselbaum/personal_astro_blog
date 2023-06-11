@@ -81,6 +81,6 @@ Ein weiterer großer Vorteil ist es, dass man keine Shell Skripte für Hooks sch
 
 Alles in Allem ist Husky eine wunderbare Ergänzung für einen modernen Entwicklungsprozess.
 
-![dog](../../../images/1f436.png)
+![dog](./images/1f436.png)
 
 _woof!_
