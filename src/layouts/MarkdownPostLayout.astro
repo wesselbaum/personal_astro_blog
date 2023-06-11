@@ -1,11 +1,13 @@
 ---
 import BaseLayout from './BaseLayout.astro';
 const {frontmatter} = Astro.props;
+const pubDate = new Date(frontmatter.pubDate);
+const formattedPubDate = pubDate.toLocaleDateString('de-de')
 ---
 <BaseLayout pageTitle={frontmatter.title}>
-    <h1>{frontmatter.title}</h1>
-    <p>Written by {frontmatter.author}</p>
-    <p>Written at {frontmatter.date}</p>
+    <h1 style={`view-transition-name: ${frontmatter.title.replaceAll(' ', '_')}`}>{frontmatter.title}</h1>
+    <!--<p>Written by {frontmatter.author}</p>-->
+    <p>{formattedPubDate}</p>
     <slot/>
     <h2>Tags</h2>
     <ul>{frontmatter.tags.map(tag => <li><a href={'tags/'+tag}>{tag}</a></li>)}</ul>

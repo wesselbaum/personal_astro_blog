@@ -6,5 +6,6 @@ import preact from "@astrojs/preact";
 export default defineConfig({
   site: 'https://wesselbaum.github.io/personal_astro_blog',
   base: '/personal_astro_blog',
-  integrations: [preact()]
+  integrations: [preact()],
+  scopedStyleStrategy: 'class'
 });

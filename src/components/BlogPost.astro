@@ -5,7 +5,7 @@ const { url, title, tags, excerpt } = Astro.props;
 
 <li>
     <a href={url}>
-        <span class="title">{title}</span>
+        <span class="title" style={`view-transition-name: ${(title.replaceAll(' ', '_'))}`}>{title}</span>
         <p class="excerpt">
             {excerpt}
         </p>
