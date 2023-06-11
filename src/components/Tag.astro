@@ -1,0 +1,43 @@
+---
+const { title } = Astro.props;
+---
+
+<a class="tag" href={`./tags/${title}`}>{title}</a>
+
+<style>
+    .tag {
+        --cutout-size: 5px;
+
+        margin: -1px 1px 0 0;
+        display: inline-block;
+        padding: 5px;
+        background-color: white;
+        writing-mode: vertical-lr;
+        border: solid 1px hsla(0, 0%, 50%, 50%);
+        border-top-style: dashed;
+        transition-timing-function: linear;
+        box-shadow: 10px 10px 10px -10px hsla(0, 0%, 50%, 30%);
+        position: relative;
+        color: var(--color-foreground);
+        transition-property: translate;
+        border-radius: 0;
+
+        &:hover,
+        &:focus-visible {
+            transition-timing-function: cubic-bezier(1, 0.03, 1, 0.01);
+            translate: 0 10px;
+            text-decoration-color: var(--color-accent);
+        }
+
+        &::before {
+            content: "";
+            position: absolute;
+            top: -10px;
+            left: 0;
+            right: 0;
+            height: 10px;
+
+            z-index: -1;
+        }
+    }
+</style>
